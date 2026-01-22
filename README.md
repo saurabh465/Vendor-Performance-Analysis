@@ -31,15 +31,13 @@ The analysis is done using Python for data processing and Power BI for visualiza
 
 ## Project Files
 Vendor-Performance-Analysis/
-│
-├── Exploratory Data Analysis.ipynb
-├── Vendor Performance Analysis.ipynb
-├── get_vendor_summary.py
-├── ingestion_db.py
-├── vendor_sales_summary.csv
-├── vendor_performance.pbix
-├── Vendor Performance Report.pdf
-└── README.md
+
+- **Exploratory Data Analysis.ipynb**: Initial data exploration and visualization
+- **Vendor Performance Analysis.ipynb**: Detailed performance analysis
+- **get_vendor_summary.py**: Generates vendor-wise summary
+- **ingestion_db.py**: Loads data into database
+- **vendor_performance.pbix**: Power BI dashboard
+
 
 
 
@@ -92,5 +90,5 @@ This data is used to compare vendor performance and generate summaries.
 ## How to Run the Project
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Hrishit31/Vendor-Performance-Analysis-.git
+   https://github.com/saurabh465/Vendor-Performance-Analysis.git
 
