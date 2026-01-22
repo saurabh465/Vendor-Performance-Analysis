@@ -34,9 +34,10 @@ Vendor-Performance-Analysis/
 
 - **Exploratory Data Analysis.ipynb**: Initial data exploration and visualization
 - **Vendor Performance Analysis.ipynb**: Detailed performance analysis
-- **get_vendor_summary.py**: Generates vendor-wise summary
+- **get_vendor_summary_to_db.py**: Save sumary tables to database 
 - **ingestion_db.py**: Loads data into database
 - **vendor_performance.pbix**: Power BI dashboard
+- **Final Report** : Final conclusion 
 
 
 
